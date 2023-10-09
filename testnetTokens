@@ -89,14 +89,6 @@
             "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/USDC.svg",
             "l1Address": "0x64544969ed7EBf5f083679233325356EbE738930",
             "l2Address": "0x845E27B8A4ad1Fe3dc0b41b900dC8C1Bb45141C3"
-        },
-        {
-            "name": "DAI",
-            "symbol": "DAI",
-            "decimals": "18",
-            "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/DAI.svg",
-            "l1Address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
-            "l2Address": "0xf46896fbEf6478eaCcFB1C815915daa7e6f87b22"
         }
     ]
 }
