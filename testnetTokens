@@ -63,7 +63,7 @@
             "symbol": "BUSD",
             "decimals": "18",
             "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/BUSD.svg",
-            "l1Address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+            "l1Address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
             "l2Address": "0xa9aD1484D9Bfb27adbc2bf50A6E495777CC8cFf2"
         },
         {
