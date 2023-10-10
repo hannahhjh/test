@@ -60,6 +60,14 @@
             "l2Address": "0xa9aD1484D9Bfb27adbc2bf50A6E495777CC8cFf2"
         },
         {
+            "name": "BUSD",
+            "symbol": "BUSD",
+            "decimals": "8",
+            "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/BUSD.svg",
+            "l1Address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+            "l2Address": "0xa9aD1484D9Bfb27adbc2bf50A6E495777CC8cFf2"
+        },
+        {
             "name": "Ethereum Token",
             "symbol": "ETHH",
             "decimals": "18",
