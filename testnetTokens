@@ -25,7 +25,10 @@
             "decimals": "18",
             "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/USDT.svg",
             "l1Address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
-            "l2Address": "0xCF712f20c85421d00EAa1B6F6545AaEEb4492B75"
+            "l2Address": "0xCF712f20c85421d00EAa1B6F6545AaEEb4492B75",
+            "extensions": {
+                "officialBridgeStatus": "deprived"
+            }
         },
         {
             "name": "USDC",
