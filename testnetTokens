@@ -67,22 +67,7 @@
             "l1Address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
             "l2Address": "0xa9aD1484D9Bfb27adbc2bf50A6E495777CC8cFf2"
         },
-        {
-            "name": "Ethereum Token",
-            "symbol": "ETHH",
-            "decimals": "18",
-            "logoURI": "https://raw.githubusercontent.com/bnb-chain/opbnb-bridge-tokens/main/data/ETH/logo.svg",
-            "l1Address": "0x4d66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
-            "l2Address": "0x584f7b986d9942B0859a1E6921efA5342A673d04"
-        },
-        {
-            "name": "Tether USD",
-            "symbol": "USDTT",
-            "decimals": "18",
-            "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/USDT.svg",
-            "l1Address": "337610d27c682E347C9cD60BD4b3b107C9d34dDd",
-            "l2Address": "0xCF712f20c85421d00EAa1B6F6545AaEEb4492B75"
-        },
+       
         {
             "name": "USDCO",
             "symbol": "USDCB",
