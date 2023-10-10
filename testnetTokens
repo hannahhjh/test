@@ -45,7 +45,7 @@
         },
  {
             "name": "BTCB Token",
-            "symbol": "BTCB",
+            "symbol": "BTCBBB",
             "decimals": "18",
             "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/BTC.svg",
             "l1Address": "0x30a9e333d014495c79f3e2cd2049d28e11e8acae",
