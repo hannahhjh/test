@@ -61,7 +61,7 @@
         },
         {
             "name": "Ethereum Token",
-            "symbol": "ETH",
+            "symbol": "ETHH",
             "decimals": "18",
             "logoURI": "https://raw.githubusercontent.com/bnb-chain/opbnb-bridge-tokens/main/data/ETH/logo.svg",
             "l1Address": "0x4d66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Tether USD",
-            "symbol": "USDT",
+            "symbol": "USDTT",
             "decimals": "18",
             "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/USDT.svg",
             "l1Address": "337610d27c682E347C9cD60BD4b3b107C9d34dDd",
