@@ -7,8 +7,8 @@
             "symbol": "BTCB",
             "decimals": "18",
             "logoURI": "https://raw.githubusercontent.com/chrisll-nodereal/token-icons/main/BTC.svg",
-            "l1Address": "6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
-            "l2Address": "3AB4E696E31173409dbfBb1FEB5b9A7cC55A212c"
+            "l1Address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+            "l2Address": "0x3AB4E696E31173409dbfBb1FEB5b9A7cC55A212c"
         },
 
         {
